@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218532114615",
+    "firebase_url": "https://hey-doctor-5e187.firebaseio.com",
+    "project_id": "hey-doctor-5e187",
+    "storage_bucket": "hey-doctor-5e187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218532114615:android:5e984056338d5808b79d32",
+        "android_client_info": {
+          "package_name": "com.example.heydoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218532114615-ubd7g33po0tfqoqmhbj90uatoheai2cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPy9tzGsUG590wWdktUOi2bjoP10dES2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218532114615-ubd7g33po0tfqoqmhbj90uatoheai2cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
